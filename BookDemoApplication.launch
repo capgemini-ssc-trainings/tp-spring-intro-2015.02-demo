@@ -12,6 +12,7 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.capgemini.springtp.bookdemo.BookDemoApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--xspring.config.location=classpath:application-mysqllocal.properties &#13;&#10;--xspring.profiles.active=mysqllocal"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="bookdemo"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dspring.liveBeansView.mbeanDomain&#13;&#10;-Dcom.sun.management.jmxremote&#13;&#10;-Dcom.sun.management.jmxremote.port=58008&#13;&#10;-Dcom.sun.management.jmxremote.authenticate=false&#13;&#10;-Dcom.sun.management.jmxremote.ssl=false"/>
